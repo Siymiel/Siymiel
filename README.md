@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/samprodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samprodev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samuel-kinuthia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-kinuthia/" height="30" width="40" /></a>
+<a href="https://dev.to/samuel_kinuthia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samuel_kinuthia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
