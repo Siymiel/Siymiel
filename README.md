@@ -1,4 +1,4 @@
-<h1>Hi 👋,I'm Samuel (@Siymiel)</h1>
+<h1>Hi 👋, I'm Samuel (@Siymiel)</h1>
 <h3>A passionate Full-Stack Software Developer from Nairobi, Kenya.</h3>
 
 - 🌱 I’m currently learning **Advanced System Architecture Designs.**
