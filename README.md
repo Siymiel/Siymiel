@@ -114,13 +114,10 @@
     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40david.alvares.62%2Fconfluent-ksqldb-wich-benefits-and-risks-ae9ef819f216&psig=AOvVaw0L-2JKAoc4Ajg7KBuJBqTK&ust=1748495144909000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIis1KWyxY0DFQAAAAAdAAAAABAU" alt="ksqldb" width="40" height="40" />
   </a>
   <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datadoghq.com%2Fabout%2Fresources%2F&psig=AOvVaw3Nz0zLhgL2iUq0WOwxE1k0&ust=1748495386968000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiQ6YSzxY0DFQAAAAAdAAAAABAE" alt="datadog" width="40" height="40" />
+    <img src="[https://svg-viewer.fileformat.info/view.html?url=https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21~bgwhite.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/datadoghq/index.html&backText=Return+to+VectorLogoZone](https://www.svgrepo.com/show/448219/datadog.svg)" alt="datadog" width="40" height="40" />
   </a>
   <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-    <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datadoghq.com%2Fabout%2Fresources%2F&psig=AOvVaw3Nz0zLhgL2iUq0WOwxE1k0&ust=1748495386968000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiQ6YSzxY0DFQAAAAAdAAAAABAE](https://www.google.com/imgres?q=argoCD%20logo&imgurl=https%3A%2F%2Fakuity.github.io%2Fawesome-argo%2Fimages%2Fargo.png&imgrefurl=https%3A%2F%2Fakuity.github.io%2Fawesome-argo%2F&docid=PbQDPuooScicaM&tbnid=58ApGiVjglBo6M&vet=12ahUKEwintayks8WNAxUNK_sDHUAWOV0QM3oECHUQAA..i&w=458&h=225&hcb=2&ved=2ahUKEwintayks8WNAxUNK_sDHUAWOV0QM3oECHUQAA)" alt="argocd" width="40" height="40" />
-  </a>
-  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-    <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datadoghq.com%2Fabout%2Fresources%2F&psig=AOvVaw3Nz0zLhgL2iUq0WOwxE1k0&ust=1748495386968000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiQ6YSzxY0DFQAAAAAdAAAAABAE](https://www.google.com/imgres?q=argoCD%20logo&imgurl=https%3A%2F%2Fakuity.github.io%2Fawesome-argo%2Fimages%2Fargo.png&imgrefurl=https%3A%2F%2Fakuity.github.io%2Fawesome-argo%2F&docid=PbQDPuooScicaM&tbnid=58ApGiVjglBo6M&vet=12ahUKEwintayks8WNAxUNK_sDHUAWOV0QM3oECHUQAA..i&w=458&h=225&hcb=2&ved=2ahUKEwintayks8WNAxUNK_sDHUAWOV0QM3oECHUQAA)" alt="argocd" width="40" height="40" />
+    <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" alt="argocd" width="40" height="40" />
   </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/448233/kubernetes.svg" alt="kubernetes" width="40" height="40" />
