@@ -104,4 +104,25 @@
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
+
+  <br/>
+
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F353950%2Fkafka&psig=AOvVaw1lF_2ayJvY6c8PS-2xovwB&ust=1748494912116000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIizuqKxxY0DFQAAAAAdAAAAABAE" alt="kafka" width="40" height="40" />
+  <a/>
+  <a href="https://www.confluent.io/product/ksqldb/" target="_blank" rel="noreferrer">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40david.alvares.62%2Fconfluent-ksqldb-wich-benefits-and-risks-ae9ef819f216&psig=AOvVaw0L-2JKAoc4Ajg7KBuJBqTK&ust=1748495144909000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIis1KWyxY0DFQAAAAAdAAAAABAU" alt="ksqldb" width="40" height="40" />
+  </a>
+  <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datadoghq.com%2Fabout%2Fresources%2F&psig=AOvVaw3Nz0zLhgL2iUq0WOwxE1k0&ust=1748495386968000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiQ6YSzxY0DFQAAAAAdAAAAABAE" alt="datadog" width="40" height="40" />
+  </a>
+  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+    <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datadoghq.com%2Fabout%2Fresources%2F&psig=AOvVaw3Nz0zLhgL2iUq0WOwxE1k0&ust=1748495386968000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiQ6YSzxY0DFQAAAAAdAAAAABAE](https://www.google.com/imgres?q=argoCD%20logo&imgurl=https%3A%2F%2Fakuity.github.io%2Fawesome-argo%2Fimages%2Fargo.png&imgrefurl=https%3A%2F%2Fakuity.github.io%2Fawesome-argo%2F&docid=PbQDPuooScicaM&tbnid=58ApGiVjglBo6M&vet=12ahUKEwintayks8WNAxUNK_sDHUAWOV0QM3oECHUQAA..i&w=458&h=225&hcb=2&ved=2ahUKEwintayks8WNAxUNK_sDHUAWOV0QM3oECHUQAA)" alt="argocd" width="40" height="40" />
+  </a>
+  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+    <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datadoghq.com%2Fabout%2Fresources%2F&psig=AOvVaw3Nz0zLhgL2iUq0WOwxE1k0&ust=1748495386968000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiQ6YSzxY0DFQAAAAAdAAAAABAE](https://www.google.com/imgres?q=argoCD%20logo&imgurl=https%3A%2F%2Fakuity.github.io%2Fawesome-argo%2Fimages%2Fargo.png&imgrefurl=https%3A%2F%2Fakuity.github.io%2Fawesome-argo%2F&docid=PbQDPuooScicaM&tbnid=58ApGiVjglBo6M&vet=12ahUKEwintayks8WNAxUNK_sDHUAWOV0QM3oECHUQAA..i&w=458&h=225&hcb=2&ved=2ahUKEwintayks8WNAxUNK_sDHUAWOV0QM3oECHUQAA)" alt="argocd" width="40" height="40" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.google.com/imgres?q=kubernetes%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F67%2FKubernetes_logo.svg&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AKubernetes_logo.svg&docid=gucFfBvM4cp8nM&tbnid=aF_dx-_dEaxK6M&vet=12ahUKEwil24jNs8WNAxU6VKQEHTZdEEEQM3oECGQQAA..i&w=1024&h=181&hcb=2&ved=2ahUKEwil24jNs8WNAxU6VKQEHTZdEEEQM3oECGQQAA" alt="kubernetes" width="40" height="40" />
+  </a>  
 </p>
