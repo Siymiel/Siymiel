@@ -108,13 +108,10 @@
   <br/>
 
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F353950%2Fkafka&psig=AOvVaw1lF_2ayJvY6c8PS-2xovwB&ust=1748494912116000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIizuqKxxY0DFQAAAAAdAAAAABAE" alt="kafka" width="40" height="40" />
+    <img src="https://www.svgrepo.com/show/353950/kafka.svg" alt="kafka" width="40" height="40" />
   <a/>
-  <a href="https://www.confluent.io/product/ksqldb/" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40david.alvares.62%2Fconfluent-ksqldb-wich-benefits-and-risks-ae9ef819f216&psig=AOvVaw0L-2JKAoc4Ajg7KBuJBqTK&ust=1748495144909000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIis1KWyxY0DFQAAAAAdAAAAABAU" alt="ksqldb" width="40" height="40" />
-  </a>
   <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
-    <img src="[https://svg-viewer.fileformat.info/view.html?url=https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21~bgwhite.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/datadoghq/index.html&backText=Return+to+VectorLogoZone](https://www.svgrepo.com/show/448219/datadog.svg)" alt="datadog" width="40" height="40" />
+    <img src="https://www.svgrepo.com/show/353635/datadog.svg" alt="datadog" width="40" height="40" />
   </a>
   <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
     <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" alt="argocd" width="40" height="40" />
